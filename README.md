@@ -1,6 +1,7 @@
 ### Olá 👋
 ### Marconi S. de Jesus
 <p> Engenheiro de Software</p>
+<p> Veja também minha <a href="https://github.com/marconi-soares">conta de estudos</a></p>
 <p> Amante de tecnologia e entusiasta de software livre</p>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50 width=50/>
